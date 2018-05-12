@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9657
     wikipedia: http://en.wikipedia.org/wiki/Talbot_Baines_Reed
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20992#Tom-Dick-and-Harry
 gutenberg_issued: '2007-04-05'
 gutenberg_type: Text
 identifiers:
