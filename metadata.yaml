@@ -1,0 +1,29 @@
+_repo: Tom-Dick-and-Harry_20992
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Reed, Talbot Baines
+    birthdate: 1852
+    deathdate: 1893
+    gutenberg_agent_id: '9657'
+    url: http://www.gutenberg.org/2009/agents/9657
+    wikipedia: http://en.wikipedia.org/wiki/Talbot_Baines_Reed
+description: ''
+gutenberg_issued: '2007-04-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20992'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Schools -- Fiction'
+- !lcsh 'Boarding schools -- England -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Students -- Juvenile fiction'
+title: Tom, Dick and Harry
+url: http://www.gutenberg.org/ebooks/20992
